@@ -1,0 +1,15 @@
+{
+  "adb": "adb",
+  "scrcpy": "scrcpy",
+  "columns": 2,
+  "width": 640,
+  "height": 480,
+  "originX": 0,
+  "originY": 0,
+  "pollSeconds": 5,
+  "commandTimeoutSeconds": 15,
+  "devices": [
+    { "name": "Demo headset A", "serial": "192.168.1.10:5555" },
+    { "name": "Demo headset B", "serial": "192.168.1.11:5555" }
+  ]
+}
